@@ -9,7 +9,11 @@ Project Overview
 6. Finally, deploying the model using Gradio
 
 Medium Blog:
+
 https://medium.com/@ambitious_prune_cricket_382/fine-tuning-a-vision-model-for-cat-or-dog-breed-classification-4b04919ca2da
 
 Gradio App:
+
+https://huggingface.co/spaces/SerdarKemal/CatorDogBreedClassification
+
 ![image](https://github.com/user-attachments/assets/fdf70510-19fd-4144-bae3-6ca31d0a8a73)
