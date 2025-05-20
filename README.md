@@ -17,3 +17,6 @@ Gradio App:
 https://huggingface.co/spaces/SerdarKemal/CatorDogBreedClassification
 
 ![image](https://github.com/user-attachments/assets/fdf70510-19fd-4144-bae3-6ca31d0a8a73)
+
+![image](https://github.com/user-attachments/assets/a9875bb3-5ad9-4907-a145-0f2156dd300b)
+
